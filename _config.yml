@@ -1,0 +1,18 @@
+# Setup
+title:        Blockchain Defensive Patent License
+tagline:      A defensive open license regime for patents
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       ""
+  url:        ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
