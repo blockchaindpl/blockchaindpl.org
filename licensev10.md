@@ -4,7 +4,7 @@ __NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS 
 
 ### 1 LICENSE GRANT
 
-Subject to the conditions and limitations of this License, Licensor hereby grants and agrees to grant to any BDPL User (as defined in Section 7.6) who follows the procedures for License Acceptance (as defined in Section 1.1) a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Sections 2(e) and 2(f)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute Licensed Products and Services that would otherwise infringe any claim of Licensed Patents.Licensor’s obligation to grant Licenses under this provision ceases upon the arrival of any applicable Discontinuation Date, unless that Date is followed by a subsequent Offering Announcement.
+Subject to the conditions and limitations of this License, Licensor hereby grants and agrees to grant to any BDPL User (as defined in Section 7.6) who follows the procedures for License Acceptance (as defined in Section 1.1) a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Sections 2(e) and 2(f)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute Licensed Products and Services that would otherwise infringe any claim of Licensed Patents. Licensor’s obligation to grant Licenses under this provision ceases upon the arrival of any applicable Discontinuation Date, unless that Date is followed by a subsequent Offering Announcement.
 
 #### 1.1 LICENSE ACCEPTANCE
 
@@ -239,3 +239,17 @@ An Offering Announcement is required to offer a Blockchain Defensive Patent Init
 #### 7.18 ATTRIBUTION
 
 This license has been adapted from the Defensive Patent License, DPL v1.1 available at https://defensivepatentlicense.org/license. We have made revisions to, comments and criticisms about such license under the doctrine of free speech in the digital media and fair use on a matter of critical public importance. The wording used in this License is generic legal terms available on the internet for free.
+
+## EXHIBIT A
+
+Example Offering Announcement should include contact information for other BDPL Users to provide notice to.
+
+### Offering Announcement
+
+This Offering Announcement is issued by ______________________________________ (“Licensor”). All capitalized terms herein have the meaning as defined in the applicable numbered version of the Blockchain Defensive Patent License.
+
+Licensor hereby commits to offer all of its Patents under the Blockchain Defensive Patent License version 1.0 or greater (“License”) to any BDPL User. The Licensor shall refer to the License for the procedures on granting and accepting such License.
+
+Date: ___________________
+
+Licensor's contact information is as follows: ________________________
