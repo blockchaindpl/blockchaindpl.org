@@ -7,3 +7,5 @@ To be an User of the BDPL, you need to make a statement on a publicly available 
 You should also email your Offering Announcement URL to the BDPL organizers at offering<span style="display:none"></span>@blockchaindpl.org so others can contact you to accept your licenses. Please also include your valid contact information and a list of your patents (including country of issue, patent no., and title). 
 
 ## Known Users
+
+  - [Little Dragon Technology LLC](https://www.asicboost.com/single-post/2018/03/01/offering-announcement-blockchain-defensive-patent-license/)
