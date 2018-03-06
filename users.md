@@ -8,4 +8,5 @@ You should also email your Offering Announcement URL to the BDPL organizers at o
 
 ## Known Users
 
-  - [Little Dragon Technology LLC](https://www.asicboost.com/single-post/2018/03/01/offering-announcement-blockchain-defensive-patent-license/)
+  - [Little Dragon Technology LLC](https://www.asicboost.com/single-post/2018/03/01/offering-announcement-blockchain-defensive-patent-license/
+  - [Halong Mining](https://halongmining.com/blog/2018/03/06/bdpl-offering-announcement/)
