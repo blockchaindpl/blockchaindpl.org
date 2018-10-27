@@ -12,4 +12,4 @@ You should also email your Offering Announcement URL to the BDPL organizers at o
   - [Halong Mining](https://halongmining.com/blog/2018/03/06/bdpl-offering-announcement/)
   - [QRF Solutions Pte Ltd](https://qrfsolutions.com/offering-announcement-for-blockchain-defensive-patent-license/)
   - [Whalechain Technology Co. Ltd](https://whale-tw.com/en/whale-blockchain-based-en/bdpl-offering-announcement/)
-
+  - [Synosure](http://www.cynosure-chain.com/en/news_show.php?id=46)
