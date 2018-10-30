@@ -13,3 +13,4 @@ You should also email your Offering Announcement URL to the BDPL organizers at o
   - [QRF Solutions Pte Ltd](https://qrfsolutions.com/offering-announcement-for-blockchain-defensive-patent-license/)
   - [Whalechain Technology Co. Ltd](https://whale-tw.com/en/whale-blockchain-based-en/bdpl-offering-announcement/)
   - [Cynosure Technologies Co. Ltd](http://www.cynosure-chain.com/en/news_show.php?id=46)
+  - [ShenZhen Microbt Electronics Technology Co. Ltd](http://www.microbt.com/license_bdpl.html)
