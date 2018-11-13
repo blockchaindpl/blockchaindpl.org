@@ -14,3 +14,4 @@ You should also email your Offering Announcement URL to the BDPL organizers at o
   - [Whalechain Technology Co. Ltd](https://whale-tw.com/en/whale-blockchain-based-en/bdpl-offering-announcement/)
   - [Cynosure Technologies Co. Ltd](http://www.cynosure-chain.com/en/news_show.php?id=46)
   - [ShenZhen Microbt Electronics Technology Co. Ltd](http://www.microbt.com/license_bdpl.html)
+  - [Bitfury Group](https://bitfury.com/content/downloads/4_30_18_bitfury_bpdl_announcement.pdf)
